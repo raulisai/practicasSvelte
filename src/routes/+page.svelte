@@ -19,11 +19,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to my list of proyects in <br />SvelteKit app
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		acerca de mi <a href="https://raulisai.github.io/">https://raulisai.github.io/</a>
 	</h2>
 
 </section>

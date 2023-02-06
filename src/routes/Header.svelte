@@ -19,8 +19,8 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About</a>
+			<li aria-current={$page.url.pathname === '/clima' ? 'page' : undefined}>
+				<a href="/clima">clima</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/tarjetasPokemon') ? 'page' : undefined}>
 				<a href="/tarjetasPokemon">Tarjetas-Pokemon</a>
@@ -35,7 +35,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
+		<a href="https://github.com/raulisai/practicasSvelte">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
