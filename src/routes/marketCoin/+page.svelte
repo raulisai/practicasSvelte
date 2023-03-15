@@ -13,7 +13,6 @@
             {
                 method: "GET",
                 headers: new Headers({ "Content-type": "application/json" }),
-
                 Origin: "https://api.coingecko.com",
             }
         );
